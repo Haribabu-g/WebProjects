@@ -6,6 +6,7 @@ This project is a simple web application for displaying a portfolio of pictures 
 ## Table of Contents
 
 - [Description](#description)
+- [Technologies_Used](#technologies)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -15,6 +16,12 @@ This project is a simple web application for displaying a portfolio of pictures 
 ## Description
 
 Picture Portfolio is a straightforward way to showcase a collection of images in a clean and organized layout. It utilizes flexbox, a CSS layout model that provides a more efficient way to align and distribute space among items in a container. This project aims to demonstrate the power and flexibility of flexbox for creating responsive and visually appealing layouts.
+
+
+## Technologies Used
+
+- HTML5
+- CSS3
 
 ## Features
 
