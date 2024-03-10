@@ -35,6 +35,11 @@ To view the tribute page:
 
 Feel free to explore the content and navigate through the page to learn more about [Ratan Naval Tata].
 
+## Preview
+
+![Tribute Page Preview](Preview.png)
+
+
 ## Contributing
 
 Contributions to enhance the tribute page are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to open an issue or submit a pull request.
