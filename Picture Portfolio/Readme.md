@@ -1,4 +1,3 @@
-
 # Picture Portfolio
 
 This project is a simple web application for displaying a portfolio of pictures using flexbox for layout.
@@ -6,17 +5,16 @@ This project is a simple web application for displaying a portfolio of pictures 
 ## Table of Contents
 
 - [Description](#description)
-- [Technologies_Used](#technologies)
+- [Technologies Used](#technologies)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-
+- [Preview](#preview)
 
 ## Description
 
 Picture Portfolio is a straightforward way to showcase a collection of images in a clean and organized layout. It utilizes flexbox, a CSS layout model that provides a more efficient way to align and distribute space among items in a container. This project aims to demonstrate the power and flexibility of flexbox for creating responsive and visually appealing layouts.
-
 
 ## Technologies Used
 
@@ -33,14 +31,17 @@ Picture Portfolio is a straightforward way to showcase a collection of images in
 
 To install Picture Portfolio, simply clone this repository to your local machine:
 
-
+```bash
 git clone https://github.com/haribabu-g/picture-portfolio.git
+```
 
 ## Usage 
 
 1. Navigate to the project directory:
 
-   cd picture-portfolio
+```bash
+cd picture-portfolio
+```
 
 2. Open the `index.html` file in your preferred web browser.
 
@@ -50,8 +51,10 @@ git clone https://github.com/haribabu-g/picture-portfolio.git
 
 5. Enjoy your customized picture portfolio!
 
+## Preview
+
+![Picture Portfolio Preview](Screenshot.png)
+
 ## Contributing
 
 Contributions are welcome! If you have any ideas for improving Picture Portfolio or encounter any issues, feel free to open an issue or submit a pull request. Please follow the [Contributing Guidelines](CONTRIBUTING.md) when contributing to this project.
-
-
