@@ -26,6 +26,10 @@ To run this application locally, follow these steps:
 
 3. Open `index.html` in your web browser.
 
+ ## Preview
+
+![Simple Counter Preview](Screenshot.png)
+
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or pull requests.
