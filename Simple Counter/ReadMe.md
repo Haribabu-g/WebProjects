@@ -1,14 +1,15 @@
-# Simple Counter
+
+# Simple Counter 🔢
 
 This is a simple counter application built with HTML, CSS, and JavaScript.
 
-## Features
+## Features ✨
 
 - Increase button: Click to increment the counter by 1.
 - Decrease button: Click to decrement the counter by 1.
 - Reset button: Click to reset the counter to 0.
 
-## Getting Started
+## Getting Started 🚀
 
 To run this application locally, follow these steps:
 
@@ -26,12 +27,10 @@ To run this application locally, follow these steps:
 
 3. Open `index.html` in your web browser.
 
- ## Preview
+ ## Preview 🖼️
 
 ![Simple Counter Preview](Screenshot.png)
 
-## Contributing
+## Contributing 🤝
 
 Contributions are welcome! Feel free to open issues or pull requests.
-
-
