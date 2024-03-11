@@ -4,7 +4,7 @@ This is a simple web-based temperature converter that allows users to convert te
 
 ## 🖼️ Preview
 
-![Temperature Converter Preview](Temperature/Preview.png)
+![Temperature Converter Preview](Preview.png)
 
 ## 🛠️ Technologies Used
 
