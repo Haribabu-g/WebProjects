@@ -1,8 +1,13 @@
-# Tribute Page Project
+
+# Tribute Page Project 🌟
 
 This is a simple tribute page project created as part of my Web Development Journey to pay homage to a notable figure in the history of India's influential business titan.
 
-## Table of Contents
+## Preview 📸
+
+![Tribute Page Preview](Preview.png)
+
+## Table of Contents 📝
 
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
@@ -11,22 +16,22 @@ This is a simple tribute page project created as part of my Web Development Jour
 - [Contributing](#contributing)
 
 
-## Introduction
+## Introduction ℹ️
 
 This project is a tribute page dedicated to [Ratan Naval Tata]. It provides a brief overview of his life, achievements, and contributions.
 
-## Technologies Used
+## Technologies Used 💻
 
 - HTML5
 - CSS3
 
-## Features
+## Features ✨
 
 - Responsive design: The page is designed to be accessible and visually appealing on different devices and screen sizes.
 - Interactive elements: Links and other interactive elements enhance the user experience.
 - Media integration: Incorporation of images and other media enriches the content.
 
-## Usage
+## Usage 🖱️
 
 To view the tribute page:
 
@@ -35,11 +40,7 @@ To view the tribute page:
 
 Feel free to explore the content and navigate through the page to learn more about [Ratan Naval Tata].
 
-## Preview
 
-![Tribute Page Preview](Preview.png)
-
-
-## Contributing
+## Contributing 🤝
 
 Contributions to enhance the tribute page are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to open an issue or submit a pull request.
