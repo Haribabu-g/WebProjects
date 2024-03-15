@@ -59,4 +59,3 @@ cd picture-portfolio
 ## Contributing 🤝
 
 Contributions are welcome! If you have any ideas for improving Picture Portfolio or encounter any issues, feel free to open an issue or submit a pull request. Please follow the [Contributing Guidelines](CONTRIBUTING.md) when contributing to this project.
-```
