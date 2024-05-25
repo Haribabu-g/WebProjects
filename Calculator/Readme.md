@@ -57,7 +57,7 @@ git clone https://github.com/your-username/simple-basic-calculator.git
 
 ## Contributing 🤝
 
-Contributions are welcome! If you have any ideas for improving Simple Basic Calculator or encounter any issues, feel free to open an issue or submit a pull request. Please follow the [Contributing Guidelines](CONTRIBUTING.md) when contributing to this project.
+Contributions are welcome! If you have any ideas for improving Simple Basic Calculator or encounter any issues, feel free to open an issue or submit a pull request. Please follow the [Contributing Guidelines] when contributing to this project.
 
 Happy calculating! 🎉
 
