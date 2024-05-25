@@ -41,9 +41,9 @@ git clone https://github.com/your-username/simple-basic-calculator.git
 
 1. Navigate to the project directory:
 
-    ```bash
-    cd simple-basic-calculator
-    ```
+```bash
+ cd simple-basic-calculator
+```
 
 2. Open the `index.html` file in your preferred web browser.
 
