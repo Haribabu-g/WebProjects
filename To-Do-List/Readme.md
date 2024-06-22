@@ -11,7 +11,7 @@ A simple and elegant To-Do List application built using HTML, CSS, and JavaScrip
 
 ## 👀 Preview
 
-![To-Do List Preview](path_to_your_preview_image)
+![To-Do List Preview](To-Do-List/Images/Preview.png)
 
 ## 🛠 Technologies Used
 
