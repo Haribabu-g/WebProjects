@@ -30,13 +30,13 @@ To run this project, you need a web browser.
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/todo-list.git
+git clone https://github.com/haribabu-g/To-Do-List.git
 ```
 
 2. Navigate to the project directory:
 
 ```sh
-cd todo-list
+cd To-Do-List
 ```
 
 3. Open `index.html` in your browser to see the app in action.
@@ -52,4 +52,4 @@ cd todo-list
 ## 🙏 Acknowledgements
 
 - Icons from [Iconfinder](https://www.iconfinder.com)
-- Background image from [Unsplash](https://unsplash.com)
+  
