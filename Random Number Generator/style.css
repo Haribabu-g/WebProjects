@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(235, 232, 234);
+    text-align: center;
+}
+
+
+.mybutton{
+    padding: 5px;
+    font-size: 1em;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px 25px;
+    
+}
+
+
+.label {
+    font-size: 3em;
+}
+
+button{
+    padding-top: 50px;
+}

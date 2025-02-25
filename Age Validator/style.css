@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: aliceblue;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+#result {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 1em;
+}

