@@ -1,4 +1,4 @@
-# 🌐 WebProjects
+# 🌐 Frontend_Mini_Projects
 
 ![GitHub repo stars](https://img.shields.io/github/stars/haribabu-g/WebProjects?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/haribabu-g/WebProjects?style=social)
