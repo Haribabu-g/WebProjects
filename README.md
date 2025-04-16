@@ -40,5 +40,5 @@ Feel free to fork this repository and enhance the projects. Contributions are we
 
 ---
 
-⭐ If you like this repo, consider giving it a star! 🌟
+⭐ If you like this repo, consider giving it a star! 🌟🌟🌟🌟🌟🌟
 
