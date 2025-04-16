@@ -18,7 +18,7 @@ A collection of simple web projects to strengthen my fundamentals in web develop
 
 ---
 
-## 🛠 Tech Stack
+ 🛠 Tech Stack
 
 - **HTML**  
 - **CSS**  
